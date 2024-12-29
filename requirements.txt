@@ -43,3 +43,4 @@ kiwisolver~=1.4.4
 xmltojson~=2.0.2
 mplcursors~=0.6  # Chose the latest version
 aiohttp~=3.11.11
+pandas-ta~=0.3.14b0  # Added for technical analysis
