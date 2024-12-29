@@ -1,17 +1,0 @@
-
-Œpython:S3358	"IExtract this nested conditional expression into an independent statement.(öêºöøÿÿÿÿJ$198b99ec-a130-4fde-b0c1-57833b37d500
-apython:S125""Remove this commented out code.(”Ìô…ûÿÿÿÿJ$ad1b5ce2-38cf-4ec8-9fb2-f69f03dc5431
-Ÿpython:S117/"]Rename this local variable "jsonResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ”»ÈıÿÿÿÿJ$3b4ba5c5-54f4-497a-9771-c9716501ba79
-Špython:S1542("MRename function "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÅPJ$62eb5d16-ff77-46f8-bf28-72a198d67d00
-apython:S1250"Remove this commented out code.(€æ øÿÿÿÿJ$ce7ee593-08b9-4d04-b1e6-0c85df2545c3
-œpython:S117:"_Rename this local variable "lastModifiedTs" to match the regular expression ^[_a-z][a-z0-9_]*$.(óÔåüJ$e5c5799c-3e3d-4a78-bf82-6e2f2f48a285
-—python:S117B"ZRename this local variable "lastPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ƒ…­J$a946d259-9fff-4bfa-8613-a162a6cf5751
-”python:S117?"XRename this local variable "pChange" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓöUJ$0e47b63c-7818-4d48-85bb-f300751b5d4a
-python:S117H"[Rename this local variable "pChange100" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ùî÷ùÿÿÿÿJ$023b6c32-916b-406d-9b17-85ab416a946f
-–python:S117N"YRename this local variable "pChanges" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì í„J$8f127509-6410-4120-9f0f-13e6573954dd
-python:S15427"ORename function "dataFrame" to match the regular expression ^[a-z_][a-z0-9_]*$.(–İ‰±J$1778c6cd-82b8-4f69-bfa9-b89d974849c2
-\python:S125A"Remove this commented out code.(­»÷ÂJ$28aa9886-02f6-402e-b0a9-d8fde4ffbe89
-›python:S117U"YRename this local variable "pChanges" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í²«ıÿÿÿÿJ$ddb9d50e-661b-4ab7-b762-202b0fba8c57
-špython:S117S"XRename this local variable "rawData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆİˆùÿÿÿÿJ$d519509f-61bf-49fd-a1f9-85a928fe645b
-\python:S125_"Remove this commented out code.(œ´ĞJ$1042b18a-83ac-4217-9130-fba8c98c2bd7
-\python:S125q"Remove this commented out code.(íÈ¸J$b5bfa9d6-83a9-48e3-ac82-8007353a3dd5

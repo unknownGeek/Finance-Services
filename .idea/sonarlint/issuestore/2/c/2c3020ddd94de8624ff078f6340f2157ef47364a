@@ -1,13 +1,0 @@
-
-¦python:S117%"]Rename this local variable "jsonResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ”»Èıÿÿÿÿ8â½¶èˆ2J$4757e89b-f3cb-4728-99d3-6cd7a7d1e192
-‘python:S1542 "MRename function "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÅP8ã½¶èˆ2J$6a5b290f-4bb1-42b7-ae18-4cfbbe1a9f60
-£python:S117+"ZRename this local variable "ibzStocks" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂŠØÏüÿÿÿÿ8ã½¶èˆ2J$a8320521-f2ed-43bf-9932-ecdf22b5155b
-§python:S117,"cRename this local variable "percentageProgress" to match the regular expression ^[_a-z][a-z0-9_]*$.(§—­§8ã½¶èˆ2J$226918e6-fedb-45dd-9628-06653dd2bad1
-¯python:S1172"fRename this local variable "percentageProgressInt" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç‘”´ıÿÿÿÿ8ã½¶èˆ2J$b8b9cf15-ca26-493b-8fb6-613e8c40d777
-¢python:S117."^Rename this local variable "percentageSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò•ù8ã½¶èˆ2J$eebca30c-30e9-4387-a0c1-1a7cf1a03099
-£python:S117B"ZRename this local variable "stockInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰à§Ñşÿÿÿÿ8ã½¶èˆ2J$18c4d69c-ac7b-4959-81aa-8b5e4643b8ce
-¡python:S1542)"WRename function "fetchNSELivePrice" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿâ¢ûÿÿÿÿ8ã½¶èˆ2J$6453fe8f-bf1e-422d-bb9e-179c0c753d05
-qpython:S1481*"'Remove the unused local variable "cnt".(İïù¨şÿÿÿÿ8ã½¶èˆ2J$2d25b641-6365-44af-8966-a50d0060efbb
-python:S3776)"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿâ¢ûÿÿÿÿ8ä½¶èˆ2J$ca984518-78c4-40ec-99b3-3e9bbfa5daa4
-¦python:S117T"]Rename this local variable "jsonResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î’öûûÿÿÿÿ8ä½¶èˆ2J$478b2bf6-7b7b-4bd0-a18d-32369de7dcde
-cpython:S125["Remove this commented out code.(ÆÔœ¦8ä½¶èˆ2J$b74546bc-9584-4d08-8cb4-d7c88e0d782b

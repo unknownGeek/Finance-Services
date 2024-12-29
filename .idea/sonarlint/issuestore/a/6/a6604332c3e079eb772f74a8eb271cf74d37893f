@@ -1,20 +1,0 @@
-
-cpython:S125*"Remove this commented out code.(Âª—§8‚úÖÍ‹2J$cf2ee769-178f-4a0b-acbf-422763978da2
-¦python:S117H"]Rename this local variable "jsonResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ÁÕøÿÿÿÿ8ÈÕ’‹2J$5ce6a785-a4e2-4323-ab59-c471a20fc786
-¤python:S117<"`Rename this local variable "responseCookies" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ÷ˆ¯8ÈÕ’‹2J$29ce1101-7d13-4084-a770-16ce945e438e
-¨python:S117="dRename this local variable "responseCookiesDict" to match the regular expression ^[_a-z][a-z0-9_]*$.(åÚğ½8ÈÕ’‹2J$efed7804-3510-4b4a-93c1-c6a237324342
-©python:S117;"`Rename this local variable "responseHeaders" to match the regular expression ^[_a-z][a-z0-9_]*$.(­ŒÄ©øÿÿÿÿ8ÈÕ’‹2J$a4cded3b-39ae-41fd-ae0e-33f7178c12e5
-¥python:S117G"aRename this local variable "screenerResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÏ£Æ8ÈÕ’‹2J$ec9ac9c0-8be0-4f5b-b91c-40587e38e975
-python:S117>"ZRename this local variable "xsrfToken" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïıàñ8ÈÕ’‹2J$d7622ed3-3aa0-4ea6-af9d-90ec5ca3cd35
-‘python:S15427"MRename function "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÅP8ÈÕ’‹2J$b1c2b5d8-315d-4076-a77c-189a13624962
-¨python:S117Q"_Rename this local variable "isUpperCircuit" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ’ÅÔıÿÿÿÿ8ÈÕ’‹2J$1dc092b8-b6d5-4864-8b90-9b06a23e5ef0
-python:S117U"ZRename this local variable "priceInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(è¢‹€8ÈÕ’‹2J$9a4c866d-f6c6-4177-9668-631c1dfaddea
-python:S117S"ZRename this local variable "stockInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷ÎZ8ÈÕ’‹2J$4ac2f6c0-3511-4a08-98d6-d16faad2c6e8
- python:S117O"\Rename this local variable "validStocks" to match the regular expression ^[_a-z][a-z0-9_]*$.(Çé‹¶8ÈÕ’‹2J$3d7f0fb4-3b29-4021-b1a0-fd1a814f7835
-¡python:S1542M"WRename function "fetchNSELivePrice" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿâ¢ûÿÿÿÿ8ÈÕ’‹2J$630d91ea-8753-4a91-9afa-05fa5bb776de
-¦python:S117c"]Rename this local variable "jsonResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î’öûûÿÿÿÿ8ÈÕ’‹2J$07920e34-b5cc-42a8-bbc6-4089e88859b8
-Špython:S3457h"EAdd replacement fields or use a normal string instead of an f-string.(¸Âó8ÈÕ’‹2J$93acf996-3944-42eb-884e-70edbba5ef2c
-£python:S117m"ZRename this local variable "stockInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰à§Ñşÿÿÿÿ8ÈÕ’‹2J$0fca9393-a045-45f7-a99c-5efe52d865ab
-£python:S1542l"YRename function "getNSELivePriceInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(ş­ä¡üÿÿÿÿ8ÈÕ’‹2J$8d6d1e67-0456-4c93-9ab0-00b12986c771
-™python:S1542x"ORename function "printData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğîôúÿÿÿÿ8ÈÕ’‹2J$776479b0-3417-460b-8bb5-713efbbca223
-cpython:S125}"Remove this commented out code.(ÆÔœ¦8ÉÕ’‹2J$1415bc16-54a9-42e1-a908-2d2c906931f5

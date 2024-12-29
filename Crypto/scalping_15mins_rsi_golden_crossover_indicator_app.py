@@ -1,20 +1,19 @@
 import datetime
 import json
-import os
 import pandas as pd
 import numpy as np
 import pandas_ta as ta
 import matplotlib.pyplot as plt
-from signals import generate_golden_crossover_signals, generate_both_golden_crossover_signals
 import mplcursors  # Import mplcursors for interactive tooltips
 import time  # Import time module to track execution time
-from backtest_signals import backtest_signals
 import asyncio
 import aiohttp
 # Create custom legend handles
 import matplotlib.patches as mpatches
 import pytz
-from file_saver import create_date_directory, create_run_directory, save_to_csv
+from Crypto.file_saver import create_date_directory, create_run_directory, save_to_csv
+from Crypto.signals import generate_both_golden_crossover_signals
+from Crypto.backtest_signals import backtest_signals
 
 isTestEnv = False
 exhaustive_logging_enabled = False

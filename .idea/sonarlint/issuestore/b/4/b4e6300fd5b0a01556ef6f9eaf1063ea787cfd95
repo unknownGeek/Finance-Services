@@ -1,15 +1,0 @@
-
-¦python:S117"]Rename this parameter "candlesCountForSL" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹©œ„úÿÿÿÿ8õ•ÕŠÁ2J$0aac9688-f090-4db5-9883-d6105e60278d
-¯python:S117"fRename this parameter "slBasedOnPercentageEnabled" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹©œ„úÿÿÿÿ8õ•ÕŠÁ2J$7bd5fc75-ba06-4185-831d-76dbc6162470
-¡python:S117"]Rename this parameter "riskToRewardRatio" to match the regular expression ^[_a-z][a-z0-9_]*$.(àé¼À8õ•ÕŠÁ2J$08d4652c-d4db-4d16-b065-09d0461b6700
-™python:S37763"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ñ¦ƒü8õ•ÕŠÁ2J$8f71fdd6-6f34-4dbe-a51b-2418ca9d61e0
-¦python:S117]"]Rename this parameter "candlesCountForSL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÀúØúÿÿÿÿ8õ•ÕŠÁ2J$d5e62e02-5724-4b69-85a2-b4908b8db486
-¦python:S117]"]Rename this parameter "riskToRewardRatio" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÀúØúÿÿÿÿ8õ•ÕŠÁ2J$840a3325-f943-4cb1-82a2-a7f137729365
-¯python:S117]"fRename this parameter "slBasedOnPercentageEnabled" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÀúØúÿÿÿÿ8õ•ÕŠÁ2J$6482d8f4-bbe9-440f-9b46-e12995547641
-žpython:S117Â"TRename this local variable "PnL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠÅ¸ßþÿÿÿÿ8õ•ÕŠÁ2J$ee179784-f007-467a-9ed4-ad7ff06090a5
-¤python:S117Ã"_Rename this local variable "PnL_percentage" to match the regular expression ^[_a-z][a-z0-9_]*$.(”ÛË¶8õ•ÕŠÁ2J$e200805e-fe66-48f1-a102-68919dee00cf
-§python:S117–"]Rename this parameter "candlesCountForSL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆóö²ùÿÿÿÿ8õ•ÕŠÁ2J$1d22bb5e-7fd7-4b23-a104-eeeb48d4dbd7
-§python:S117–"]Rename this parameter "riskToRewardRatio" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆóö²ùÿÿÿÿ8õ•ÕŠÁ2J$c997a297-a28d-4e3e-a61d-deb5b4d60b64
-°python:S117–"fRename this parameter "slBasedOnPercentageEnabled" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆóö²ùÿÿÿÿ8õ•ÕŠÁ2J$72e497ce-4cba-45c1-a513-850afce5e58c
-¤python:S117–"ZRename this parameter "tickersDataMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆóö²ùÿÿÿÿ8õ•ÕŠÁ2J$b6b1b5ba-bf09-4d88-ac9a-8936b2649fa5
-…python:S1244¶":Do not perform equality checks with floating point values.(¤ð×Îøÿÿÿÿ8ö•ÕŠÁ2J$b2a75d93-96b6-4eab-944b-1f2dcd3dc0ff

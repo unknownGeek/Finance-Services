@@ -1,202 +1,0 @@
-
-lpython:S116"PRename this field "itemName" to match the regular expression ^[_a-z][_a-z0-9]*$.(³ï§Ëùÿÿÿÿ
-gpython:S116 "QRename this field "itemIndex" to match the regular expression ^[_a-z][_a-z0-9]*$.(â£
-qpython:S116"URename this field "SubTableIndex" to match the regular expression ^[_a-z][_a-z0-9]*$.(¯Õ˜áùÿÿÿÿ
-spython:S116"WRename this field "LookupListIndex" to match the regular expression ^[_a-z][_a-z0-9]*$.(§Æ€Óşÿÿÿÿ
-hpython:S116"QRename this field "tableType" to match the regular expression ^[_a-z][_a-z0-9]*$.(ªîŠÙ
-ppython:S117"YRename this parameter "overflowTuple" to match the regular expression ^[_a-z][a-z0-9_]*$.(„¦Š€
-vpython:S117&"_Rename this parameter "overflowErrorRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û Ş’
-wpython:S117K"[Rename this local variable "tableClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üßóûÿÿÿÿ
-{python:S117ƒ"cRename this local variable "lastOverflowRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú°­
-vpython:S117f"_Rename this local variable "overflowRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(Óçù€
-Jpython:S1481f"2Remove the unused local variable "overflowRecord".(Óçù€
-lpython:S3776O"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(éÇ¤÷
-{python:S117¿"^Rename this parameter "lastOverflowRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(“Æş­ûÿÿÿÿ
-wpython:S117Å"_Rename this local variable "overflowRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú·íê
-xpython:S117Ş"[Rename this local variable "tableClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üßóûÿÿÿÿ
-mpython:S116ö"PRename this field "tableTag" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ìõêúÿÿÿÿ
-jpython:S116õ"RRename this field "localState" to match the regular expression ^[_a-z][_a-z0-9]*$.(ó…ş
-spython:S117ñ"VRename this parameter "localState" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¾Ëşÿÿÿÿ
-qpython:S117ñ"TRename this parameter "tableTag" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¾Ëşÿÿÿÿ
-hpython:S100ƒ"PRename method "getSubReader" to match the regular expression ^[a-z_][a-z0-9_]*$.(²ÎÍ
-spython:S117‡"VRename this parameter "staticSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñí¡›ıÿÿÿÿ
-jpython:S100‡"MRename method "readValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(ñí¡›ıÿÿÿÿ
-spython:S117"VRename this parameter "staticSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(«õ±”şÿÿÿÿ
-jpython:S100"MRename method "readArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(«õ±”şÿÿÿÿ
-ipython:S100•"LRename method "readInt8" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùÙ…Ìøÿÿÿÿ
-npython:S100—"QRename method "readInt8Array" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŠÙâ·üÿÿÿÿ
-epython:S100š"MRename method "readShort" to match the regular expression ^[a-z_][a-z0-9_]*$.(íøş¹
-opython:S100œ"RRename method "readShortArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿÔôıÿÿÿÿ
-ipython:S100Ÿ"LRename method "readLong" to match the regular expression ^[a-z_][a-z0-9_]*$.(ëÔÌêÿÿÿÿÿ
-ipython:S100¡"QRename method "readLongArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(úô·£
-epython:S100¤"MRename method "readUInt8" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶Ö¡
-jpython:S100¦"RRename method "readUInt8Array" to match the regular expression ^[a-z_][a-z0-9_]*$.(â²Ø
-fpython:S100©"NRename method "readUShort" to match the regular expression ^[a-z_][a-z0-9_]*$.(×£•‹
-ppython:S100«"SRename method "readUShortArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(ì€ñ‹şÿÿÿÿ
-jpython:S100®"MRename method "readULong" to match the regular expression ^[a-z_][a-z0-9_]*$.(İ²Òõûÿÿÿÿ
-opython:S100°"RRename method "readULongArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿÔøÿÿÿÿ
-fpython:S100³"NRename method "readUInt24" to match the regular expression ^[a-z_][a-z0-9_]*$.(À½†Â
-ppython:S100¹"SRename method "readUInt24Array" to match the regular expression ^[a-z_][a-z0-9_]*$.(Í¤Ÿüÿÿÿÿ
-hpython:S100¼"KRename method "readTag" to match the regular expression ^[a-z_][a-z0-9_]*$.(…¡¡¡øÿÿÿÿ
-ipython:S100Ä"LRename method "readData" to match the regular expression ^[a-z_][a-z0-9_]*$.(ëùãÔùÿÿÿÿ
-jpython:S116Ş"RRename this field "localState" to match the regular expression ^[_a-z][_a-z0-9]*$.(ó…ş
-mpython:S116ß"PRename this field "tableTag" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ìõêúÿÿÿÿ
-jpython:S116à"RRename this field "offsetSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(‘›ß£
-npython:S117Û"VRename this parameter "localState" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸĞ
-npython:S117Û"VRename this parameter "offsetSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸĞ
-lpython:S117Û"TRename this parameter "tableTag" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸĞ
-fpython:S100æ"NRename method "longOffset" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ù­¥ç
-kpython:S100ê"NRename method "longOffset" to match the regular expression ^[a-z_][a-z0-9_]*$.(…™é‘ıÿÿÿÿ
-npython:S100ú"QRename method "getDataLength" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğª¿¹üÿÿÿÿ
-qpython:S117Š"YRename this local variable "numItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬¤Åè
-|python:S117–"dRename this local variable "overflowErrorRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸¶ñ¾
-cpython:S100†"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì—”Ö
-qpython:S117£"ZRename this local variable "packFuncs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò©È
-npython:S100 "VRename method "getDataForHarfbuzz" to match the regular expression ^[a-z_][a-z0-9_]*$.(ñÑÜ°
-wpython:S117É"ZRename this local variable "dontShare" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßˆ“Ôúÿÿÿÿ
-wpython:S117»"ZRename this parameter "internedTables" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷½¶ùÿÿÿÿ
-ypython:S117Ã"\Rename this local variable "isExtension" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡Ó€÷ûÿÿÿÿ
-wpython:S117»"ZRename this parameter "shareExtension" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷½¶ùÿÿÿÿ
-mpython:S100»"PRename method "_doneWriting" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷½¶ùÿÿÿÿ
-rpython:S117ß"URename this parameter "extTables" to match the regular expression ^[_a-z][a-z0-9_]*$.(éÄîäıÿÿÿÿ
-opython:S117ë"WRename this local variable "iRange" to match the regular expression ^[_a-z][a-z0-9_]*$.(åê†ß
-ypython:S117î"\Rename this local variable "isExtension" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡Ó€÷ûÿÿÿÿ
-vpython:S117ê"YRename this local variable "numItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢±œüÿÿÿÿ
-spython:S117ğ"[Rename this local variable "selfTables" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùßà
-~python:S117÷"aRename this local variable "sortCoverageLast" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôºù•ıÿÿÿÿ
-npython:S100ß"QRename method "_gatherTables" to match the regular expression ^[a-z_][a-z0-9_]*$.(éÄîäıÿÿÿÿ
-rpython:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(éÄîäıÿÿÿÿ
-~python:S117Ÿ"aRename this local variable "sortCoverageLast" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôºù•ıÿÿÿÿ
-xpython:S100–"[Rename method "_gatherGraphForHarfbuzz" to match the regular expression ^[a-z_][a-z0-9_]*$.(º«¡µÿÿÿÿÿ
-rpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(º«¡µÿÿÿÿÿ
-|python:S117Ó"_Rename this local variable "internedTables" to match the regular expression ^[_a-z][a-z0-9_]*$.(›İ‘´ùÿÿÿÿ
-wpython:S117ä"ZRename this local variable "tableData" to match the regular expression ^[_a-z][a-z0-9_]*$.(Îò‹·şÿÿÿÿ
-lpython:S117Ë"TRename this parameter "tableTag" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õª¦¶
-spython:S100Ë"[Rename method "getAllDataUsingHarfbuzz" to match the regular expression ^[a-z_][a-z0-9_]*$.(Õª¦¶
-wpython:S117ò"ZRename this local variable "extTables" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñå›ÿÿÿÿÿ
-|python:S117ï"_Rename this local variable "internedTables" to match the regular expression ^[_a-z][a-z0-9_]*$.(›İ‘´ùÿÿÿÿ
-ppython:S117„"ZRename this local variable "tableData" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¨n
-kpython:S100ì"NRename method "getAllData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿè¯Òÿÿÿÿÿ
-npython:S117"VRename this parameter "offsetSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ã¤
-hpython:S100"PRename method "getSubWriter" to match the regular expression ^[a-z_][a-z0-9_]*$.(“ã¤
-fpython:S100—"NRename method "writeValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿ„ñ 
-kpython:S100™"NRename method "writeArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(†âÊüÿÿÿÿ
-jpython:S100"MRename method "writeInt8" to match the regular expression ^[a-z_][a-z0-9_]*$.(×ó¨ìüÿÿÿÿ
-opython:S100¡"RRename method "writeInt8Array" to match the regular expression ^[a-z_][a-z0-9_]*$.(å²×³üÿÿÿÿ
-fpython:S100¤"NRename method "writeShort" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼²…ı
-ppython:S100§"SRename method "writeShortArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(üüÄûÿÿÿÿ
-epython:S100ª"MRename method "writeLong" to match the regular expression ^[a-z_][a-z0-9_]*$.(³¦ü
-jpython:S100¬"RRename method "writeLongArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(º‹ÖÏ
-kpython:S100¯"NRename method "writeUInt8" to match the regular expression ^[a-z_][a-z0-9_]*$.(ş¥–àüÿÿÿÿ
-ppython:S100²"SRename method "writeUInt8Array" to match the regular expression ^[a-z_][a-z0-9_]*$.(È±†Šÿÿÿÿÿ
-gpython:S100µ"ORename method "writeUShort" to match the regular expression ^[a-z_][a-z0-9_]*$.(ãÅù
-lpython:S100¸"TRename method "writeUShortArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÇâ†
-fpython:S100»"NRename method "writeULong" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÃãÕ¦
-ppython:S100½"SRename method "writeULongArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶’æııÿÿÿÿ
-lpython:S100À"ORename method "writeUInt24" to match the regular expression ^[a-z_][a-z0-9_]*$.(§· şÿÿÿÿ
-lpython:S100Ä"TRename method "writeUInt24Array" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷¿åß
-dpython:S100È"LRename method "writeTag" to match the regular expression ^[a-z_][a-z0-9_]*$.(æåÂ³
-mpython:S117Í"URename this parameter "subWriter" to match the regular expression ^[_a-z][a-z0-9_]*$.(›èê‚
-ipython:S100Í"QRename method "writeSubTable" to match the regular expression ^[a-z_][a-z0-9_]*$.(›èê‚
-tpython:S100Ğ"WRename method "writeCountReference" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÚŠÀøúÿÿÿÿ
-gpython:S100Õ"ORename method "writeStruct" to match the regular expression ^[a-z_][a-z0-9_]*$.(áø®
-epython:S100Ù"MRename method "writeData" to match the regular expression ^[a-z_][a-z0-9_]*$.(şÇŠÙ
-}python:S117İ"`Rename this local variable "LookupListIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿê›øÿÿÿÿ
-{python:S117İ"^Rename this local variable "SubTableIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿê›øÿÿÿÿ
-wpython:S117İ"ZRename this local variable "itemIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿê›øÿÿÿÿ
-vpython:S117İ"YRename this local variable "itemName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿê›øÿÿÿÿ
-wpython:S100Ü"ZRename method "getOverflowErrorRecord" to match the regular expression ^[a-z_][a-z0-9_]*$.(óß³ûÿÿÿÿ
-rpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(óß³ûÿÿÿÿ
-dpython:S100†"LRename method "setValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(¯ÈÅ
-dpython:S100"LRename method "getValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿ¿Ö¨
-hpython:S100"PRename method "getCountData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿòæ¾
-hpython:S1542•"ORename function "packUInt8" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÚÊ¿õ
-npython:S1542˜"PRename function "packUShort" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğ­®Åıÿÿÿÿ
-hpython:S1542›"ORename function "packULong" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ø‡®²
-ipython:S1542Ÿ"PRename function "packUInt24" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰—ä¾
-jpython:S116ñ"RRename this field "__rawTable" to match the regular expression ^[_a-z][_a-z0-9]*$.(‡Åø
-qpython:S100³"TRename method "ensureDecompiled" to match the regular expression ^[a-z_][a-z0-9_]*$.(şàïúÿÿÿÿ
-spython:S117Ä"[Rename this local variable "countValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯†²ø
-rpython:S117À"ZRename this local variable "totalSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆÛ€Ê
-ipython:S100¿"QRename method "getRecordSize" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßÊü­
-ipython:S100Í"QRename method "getConverters" to match the regular expression ^[a-z_][a-z0-9_]*$.(öéÍõ
-spython:S100Ğ"VRename method "getConverterByName" to match the regular expression ^[a-z_][a-z0-9_]*$.(·ûİÌúÿÿÿÿ
-spython:S117Ø"[Rename this local variable "countValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Úõ˜
-kpython:S100Ó"TRename method "populateDefaults" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥ïˆ{
-Lpython:S1481Ú".Remove the unused local variable "count_conv".(Ìœ‚Øùÿÿÿÿ
-lpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¥ïˆ{
-xpython:S117"[Rename this local variable "countValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(šöè·øÿÿÿÿ
-rpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(÷ª®¶ÿÿÿÿÿ
-spython:S117Á"[Rename this local variable "countValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÃÓ¸
-upython:S117¡"]Rename this local variable "deleteFormat" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬åŸŞ
-rpython:S3776›"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(ô­»´øÿÿÿÿ
-Mpython:S1135"4Complete the task associated to this "TODO" comment.(Ï¢ô¦
-Lpython:S1135½"4Complete the task associated to this "TODO" comment.(ÀöşN
-kpython:S100ù"NRename method "readFormat" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ş¿èÁıÿÿÿÿ
-wpython:S1186ù"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ş¿èÁıÿÿÿÿ
-lpython:S100ü"ORename method "writeFormat" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü¸ãÜûÿÿÿÿ
-wpython:S1186ü"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ü¸ãÜûÿÿÿÿ
-wpython:S117€"ZRename this local variable "tableName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãšˆÿüÿÿÿÿ
-mpython:S117ÿ"URename this parameter "xmlWriter" to match the regular expression ^[_a-z][a-z0-9_]*$.(æõëš
-apython:S100ÿ"IRename method "toXML" to match the regular expression ^[a-z_][a-z0-9_]*$.(æõëš
-rpython:S117‹"URename this parameter "xmlWriter" to match the regular expression ^[_a-z][a-z0-9_]*$.(óø¬àøÿÿÿÿ
-gpython:S100‹"JRename method "toXML2" to match the regular expression ^[a-z_][a-z0-9_]*$.(óø¬àøÿÿÿÿ
-Mpython:S1135™"4Complete the task associated to this "TODO" comment.(—¥Êõ
-cpython:S100œ"KRename method "fromXML" to match the regular expression ^[a-z_][a-z0-9_]*$.(™öÎı
-vpython:S2737 "XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(¸ìî„úÿÿÿÿ
-npython:S100¾"QRename method "iterSubTables" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î€È®úÿÿÿÿ
-lpython:S100Ø"TRename method "getVariableAttrs" to match the regular expression ^[a-z_][a-z0-9_]*$.(™Ÿ£Å
-Epython:S1481ç"'Remove the unused local variable "fmt".(§Ó©øûÿÿÿÿ
-mpython:S117ú"URename this parameter "xmlWriter" to match the regular expression ^[_a-z][a-z0-9_]*$.(æõëš
-spython:S117	"VRename this parameter "formatType" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Ÿú©üÿÿÿÿ
-„python:S1542	"fRename function "getFormatSwitchingBaseTableClass" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹Ÿú©üÿÿÿÿ
-vpython:S117¨	"YRename this local variable "varAttrs" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼”¶õøÿÿÿÿ
-opython:S1542—	"VRename function "getVariableAttrs" to match the regular expression ^[a-z_][a-z0-9_]*$.(šæƒ‘
-vpython:S117Ï	"YRename this local variable "isDevice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÃ–üÿÿÿÿ
-npython:S1542Í	"PRename function "_buildDict" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùº¥´üÿÿÿÿ
-vpython:S117Ü	"YRename this local variable "isDevice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÃ–üÿÿÿÿ
-tpython:S117Ú	"WRename this parameter "valueFormat" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëöÿæùÿÿÿÿ
-Dpython:S5806Û	"+Rename this variable; it shadows a builtin.(«³¿§
-vpython:S117é	"YRename this local variable "isDevice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºƒ­ºüÿÿÿÿ
-rpython:S117ñ	"ZRename this local variable "subReader" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼â»À
-tpython:S117è	"\Rename this local variable "valueRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã–¯÷
-ppython:S100ä	"SRename method "readValueRecord" to match the regular expression ^[a-z_][a-z0-9_]*$.(€‚Í¦úÿÿÿÿ
-Ipython:S5806å	"+Rename this variable; it shadows a builtin.(—ÂãÅşÿÿÿÿ
-vpython:S117ú	"YRename this local variable "isDevice" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘èõõÿÿÿÿÿ
-wpython:S117ş	"ZRename this local variable "subWriter" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊÚ¡ûÿÿÿÿ
-tpython:S117ù	"WRename this parameter "valueRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÆš¹ÿÿÿÿÿ
-qpython:S100ù	"TRename method "writeValueRecord" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÍÆš¹ÿÿÿÿÿ
-vpython:S117
-"YRename this local variable "isDevice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÃ–üÿÿÿÿ
-tpython:S117
-"WRename this parameter "valueFormat" to match the regular expression ^[_a-z][a-z0-9_]*$.(©È„Šúÿÿÿÿ
-rpython:S3776
-"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(©È„Šúÿÿÿÿ
-jpython:S100š
-"MRename method "getFormat" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÍÒÀùÿÿÿÿ
-Dpython:S5806›
-"+Rename this variable; it shadows a builtin.(Ì±‰›
-npython:S100 
-"VRename method "getEffectiveFormat" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÓíÌ£
-Dpython:S5806¡
-"+Rename this variable; it shadows a builtin.(Ì±‰›
-tpython:S117¯
-"\Rename this local variable "deviceItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚‡Ë
-zpython:S117¸
-"]Rename this local variable "deviceRecord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç‘†âúÿÿÿÿ
-ppython:S117¬
-"YRename this local variable "isDevice" to match the regular expression ^[_a-z][a-z0-9_]*$.(åËäS
-ypython:S117©
-"\Rename this local variable "simpleItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(æÇÓÿÿÿÿÿ
-mpython:S117§
-"URename this parameter "valueName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰‚¾®
-mpython:S117§
-"URename this parameter "xmlWriter" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰‚¾®
-apython:S100§
-"IRename method "toXML" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰‚¾®
-mpython:S3776§
-"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(‰‚¾®
-cpython:S100Á
-"KRename method "fromXML" to match the regular expression ^[a-z_][a-z0-9_]*$.(™öÎı
-epython:S1226Á
-"LIntroduce a new variable or use its initial value before reassigning 'name'.(™öÎı

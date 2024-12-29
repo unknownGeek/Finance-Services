@@ -1,5 +1,0 @@
-
-python:S6903"DDon't use `datetime.datetime.utcnow` to create this datetime object.(şÏÿÿÿÿÿ8îøÛ…¾2J$23f10b0e-215b-4c79-8f80-9376def01d7d
-£python:S117"_Rename this local variable "cryptoPairInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô¶²¦8îøÛ…¾2J$ae1e4552-fe07-4c1a-9701-67a6ac21cdae
- python:S1542"[Rename function "extractCryptoPairInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê¿ç™8ïøÛ…¾2J$58c3076b-08ec-48dd-b7e8-62cf3b49d698
-©python:S1542="_Rename function "generateSignalWithBinance" to match the regular expression ^[a-z_][a-z0-9_]*$.(â·ÖÓÿÿÿÿÿ8ïøÛ…¾2J$6c6c3428-9245-476f-b2e9-a9c4359ca2da

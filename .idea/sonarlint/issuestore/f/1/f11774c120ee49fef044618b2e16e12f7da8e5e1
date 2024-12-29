@@ -1,52 +1,0 @@
-
-¬python:S117"cRename this local variable "isPriceCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ÉÁ¼úÿÿÿÿ8ÎÞ·ŒÁ2J$f7667983-fb76-49dd-9912-ad17488b3227
-¯python:S117"fRename this local variable "isRsiCrossingSmaOfRsi" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô¹¤‘úÿÿÿÿ8ÏÞ·ŒÁ2J$d67b49e5-240c-49aa-a53c-27f183a98b8c
-ƒpython:S1481"9Remove the unused local variable "isRsiCrossingSmaOfRsi".(Ô¹¤‘úÿÿÿÿ8ÏÞ·ŒÁ2J$f803642e-eab4-4a2a-bdd6-8b7d8040bcff
-£python:S117<"_Rename this local variable "candleBodySize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ°Ÿ·8ÏÞ·ŒÁ2J$ce74091d-a2ff-490c-890f-0dc7943c88a0
- python:S117K"\Rename this local variable "greenCandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚­ÔÖ8ÏÞ·ŒÁ2J$fc301053-79b2-487c-b204-512b6a7694ab
-²python:S117N"iRename this local variable "isGreenCandleCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ“ßËýÿÿÿÿ8ÏÞ·ŒÁ2J$bce2cb37-085b-4765-b3bf-960de286a95d
-°python:S117M"gRename this local variable "isPrevCandleFarFromSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýªÌøÿÿÿÿ8ÏÞ·ŒÁ2J$9904a947-919b-4c57-8c5a-676374a73822
-¬python:S117F"cRename this local variable "isPriceCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ÉÁ¼úÿÿÿÿ8ÏÞ·ŒÁ2J$8fa468bc-7b08-4b9e-8a90-852f63ea902e
-©python:S117D"eRename this local variable "isPriceCrossingValid" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï¼Ü8ÏÞ·ŒÁ2J$d7ff2abb-0b54-4c04-8083-6d1c37821f44
-¦python:S117L"bRename this local variable "isPriceIncreasing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ‡è¤8ÏÞ·ŒÁ2J$fe650c8b-e2ce-435b-a121-5790d4690228
-¬python:S117I"hRename this local variable "isRsiBelowMaxValForLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(ð°Œµ8ÏÞ·ŒÁ2J$cf7b59b3-1702-484a-9411-4445701b0b69
-¯python:S117G"fRename this local variable "isRsiCrossingSmaOfRsi" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô¹¤‘úÿÿÿÿ8ÏÞ·ŒÁ2J$56f44bb3-24d8-4341-9ff7-03bc4acd79d3
-³python:S117J"jRename this local variable "isRsiMABelowMaxValForLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰õç™þÿÿÿÿ8ÏÞ·ŒÁ2J$d96ea992-8a38-4ffc-a69a-04c5ef30fb2b
-©python:S117O"`Rename this local variable "isSmaDecreasing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÐ˜þÿÿÿÿ8ÏÞ·ŒÁ2J$40008347-a856-44b0-bc34-a79d7c7811d7
-²python:S117A"iRename this local variable "percentCrossingAboveDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦œèÂþÿÿÿÿ8ÏÞ·ŒÁ2J$b75bf6dc-0231-4e0f-9d77-dfdf20319736
-­python:S117B"iRename this local variable "percentCrossingBelowDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(žþ—ð8ÏÞ·ŒÁ2J$12cea6c5-5fab-4152-a649-e2a505745672
-python:S1244=":Do not perform equality checks with floating point values.(Èž³­8ÏÞ·ŒÁ2J$3940921c-58f1-450e-9a87-47008857b7aa
-¨python:S117u"_Rename this local variable "candleBodySize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂÂÖÀýÿÿÿÿ8ÏÞ·ŒÁ2J$aa85cb8d-a49e-4386-923a-f066fa45d9c5
-python:S1244v":Do not perform equality checks with floating point values.(Èž³­8ÏÞ·ŒÁ2J$a6272816-a29d-4167-8a0c-65006dacded3
-¤python:S117‹"ZRename this parameter "candleBodySize" to match the regular expression ^[_a-z][a-z0-9_]*$.(š™ˆäýÿÿÿÿ8ÏÞ·ŒÁ2J$1f2ea2ed-52b1-49da-930c-613930b38a98
-¡python:S117›"\Rename this local variable "greenCandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚­ÔÖ8ÏÞ·ŒÁ2J$0c68709d-0785-4d46-b92c-5dd5d1849c24
-³python:S117ž"iRename this local variable "isGreenCandleCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ“ßËýÿÿÿÿ8ÏÞ·ŒÁ2J$d271207a-6fe5-43d8-a0bc-a70579ffc533
-·python:S117¦"mRename this local variable "isLastThreeCandlesFarFromSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë‹¨Ãÿÿÿÿÿ8ÏÞ·ŒÁ2J$d9d18299-c0bb-461f-a9e0-64ac8ec76fd9
-±python:S117"gRename this local variable "isPrevCandleFarFromSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýªÌøÿÿÿÿ8ÏÞ·ŒÁ2J$d550e5e0-4e67-49b3-9321-6ab2cb5e98e1
-­python:S117–"cRename this local variable "isPriceCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ÉÁ¼úÿÿÿÿ8ÏÞ·ŒÁ2J$f29f4f6a-53c0-4e4b-845f-a5cffcd6b3b5
-ªpython:S117”"eRename this local variable "isPriceCrossingValid" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï¼Ü8ÏÞ·ŒÁ2J$507ed267-d395-40d4-b0aa-7e48277a1c09
-§python:S117œ"bRename this local variable "isPriceIncreasing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ‡è¤8ÏÞ·ŒÁ2J$bb7bac54-a8d7-4a8c-8d8d-cac795827560
-­python:S117™"hRename this local variable "isRsiBelowMaxValForLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(ð°Œµ8ÏÞ·ŒÁ2J$ab3922c6-a7d3-4036-9af9-e7f646ef7dcc
-°python:S117—"fRename this local variable "isRsiCrossingSmaOfRsi" to match the regular expression ^[_a-z][a-z0-9_]*$.(£À£¶úÿÿÿÿ8ÏÞ·ŒÁ2J$2c664548-b173-408c-ab94-4dae801406e6
-´python:S117š"jRename this local variable "isRsiMABelowMaxValForLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰õç™þÿÿÿÿ8ÏÞ·ŒÁ2J$7092d193-b91d-4f36-a743-63a25d2b63dc
-ªpython:S117¬"`Rename this local variable "isSmaDecreasing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÐ˜þÿÿÿÿ8ÏÞ·ŒÁ2J$c07cf51d-d8c6-48fa-a83d-77e1c7a168c3
-³python:S117‘"iRename this local variable "percentCrossingAboveDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦œèÂþÿÿÿÿ8ÏÞ·ŒÁ2J$5fea3630-694b-4911-9868-7c439904dd8a
-®python:S117’"iRename this local variable "percentCrossingBelowDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(žþ—ð8ÏÞ·ŒÁ2J$be185b8f-cecc-4bcc-b5c9-ad741a16e464
-npython:S1481"(Remove the unused local variable "lows".(¬ÿí8ÏÞ·ŒÁ2J$c051a21e-663d-43d8-830b-1a2c6de609b6
-dpython:S125Ÿ"Remove this commented out code.(ß®•ÿ8ÐÞ·ŒÁ2J$7ddea3c2-8049-4a1a-bb25-d84f048ca83b
-Ÿpython:S117·"ZRename this parameter "candleBodySize" to match the regular expression ^[_a-z][a-z0-9_]*$.(åáœä8ÐÞ·ŒÁ2J$262e10ba-04e9-47fd-b1c9-a0b7967b4f5d
-·python:S117Ó"mRename this local variable "isLastThreeCandlesFarFromSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö¿ßƒøÿÿÿÿ8ÐÞ·ŒÁ2J$e76a32cf-f470-427e-95fa-a67b8f927bef
-±python:S117Ê"gRename this local variable "isPrevCandleFarFromSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¾«£ûÿÿÿÿ8ÐÞ·ŒÁ2J$98360454-2e91-4f0a-8f8f-dfeb223d08b5
-¨python:S117Ã"cRename this local variable "isPriceCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒÖ§¶8ÐÞ·ŒÁ2J$92487dc1-6194-4e90-bb5d-0c17c4b2da04
-ªpython:S117Á"eRename this local variable "isPriceCrossingValid" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï¼Ü8ÐÞ·ŒÁ2J$ecdb42d2-e3f6-4dd1-ae1b-ad27856d11c2
-§python:S117É"bRename this local variable "isPriceDecreasing" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ñœ®8ÐÞ·ŒÁ2J$1ae91ad1-d0c3-45ad-a3a1-b302669e94dd
-±python:S117Ë"gRename this local variable "isRedCandleCrossingSma" to match the regular expression ^[_a-z][a-z0-9_]*$.(±’’Øýÿÿÿÿ8ÐÞ·ŒÁ2J$833b172f-593c-4c65-9912-b5fba156e3ed
-²python:S117Æ"hRename this local variable "isRsiAboveMinValForLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê«˜áúÿÿÿÿ8ÐÞ·ŒÁ2J$89ff22ea-7178-446b-9fce-2fc496a90822
-«python:S117Ä"fRename this local variable "isRsiCrossingSmaOfRsi" to match the regular expression ^[_a-z][a-z0-9_]*$.(îðúÔ8ÐÞ·ŒÁ2J$86d4b02b-984b-4fff-be18-0027eced86bd
-´python:S117Ç"jRename this local variable "isRsiMAAboveMinValForLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸²Š«þÿÿÿÿ8ÐÞ·ŒÁ2J$6c854dbc-6657-4fa2-b657-0be53aac1715
-ªpython:S117Ú"`Rename this local variable "isSmaIncreasing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÁ†æÿÿÿÿÿ8ÐÞ·ŒÁ2J$3c4a44b6-0882-4599-9cbd-de5cbc6505e4
-³python:S117¿"iRename this local variable "percentCrossingAboveDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(”ó³¨þÿÿÿÿ8ÐÞ·ŒÁ2J$9aa79e8b-dda2-4b21-b33b-3e71d7cceb2b
-®python:S117¾"iRename this local variable "percentCrossingBelowDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¥ÖÐ8ÐÞ·ŒÁ2J$3f1892ef-35f0-4868-bc8b-6deb0c679d09
-¤python:S117È"ZRename this local variable "redCandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕœøÛùÿÿÿÿ8ÐÞ·ŒÁ2J$719d587d-1821-4667-b2b3-d932c978928c
-opython:S1481»")Remove the unused local variable "highs".(³Ù”õ8ÐÞ·ŒÁ2J$8a38ab07-df89-473d-afab-09ccd858378a
-dpython:S125Ì"Remove this commented out code.(åÜøµ8ÐÞ·ŒÁ2J$26fb2749-0c65-4754-ae99-c8fb0253cf88
