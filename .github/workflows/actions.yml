@@ -5,6 +5,9 @@ on:
     - cron: '*/2 * * * *' # At every 15th minute
   workflow_dispatch:
 
+permissions:
+  contents: write  # Grant write access to the repository contents
+
 jobs:
   build:
     runs-on: ubuntu-latest
