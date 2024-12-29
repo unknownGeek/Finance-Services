@@ -44,7 +44,6 @@ xmltojson~=2.0.2
 mplcursors~=0.6
 aiohttp~=3.11.11
 # Core libraries
-pandas==1.5.3
 numpy==1.23.5
 matplotlib==3.6.2
 mplcursors==0.5.3
