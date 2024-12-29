@@ -2,7 +2,7 @@ name: run scalping_15mins_indicator_cron.py
 
 on:
   schedule:
-    - cron: '*/14 * * * *' # At every 14th minute
+    - cron: '*/15 * * * *' # At every 14th minute
   workflow_dispatch:
 
 permissions:
