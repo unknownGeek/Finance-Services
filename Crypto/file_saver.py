@@ -1,6 +1,6 @@
 import os
 
-base_directory = '/Users/h0k00sn/Documents/Projects/py/Crypto/resources/crypto-reports'
+base_directory = 'Crypto/resources/crypto-reports'
 
 
 def create_date_directory(startDateTime):

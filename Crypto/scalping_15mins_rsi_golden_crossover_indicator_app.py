@@ -135,7 +135,7 @@ async def main():
     start_time = time.time()
 
     # Specify the path to your JSON file
-    cryptoCoinsJsonFilePath = '/Users/h0k00sn/Documents/Projects/py/Crypto/resources/cryptoCoins.json'
+    cryptoCoinsJsonFilePath = 'Crypto/resources/cryptoCoins.json'
     tickers = extractCryptoPairInfo(cryptoCoinsJsonFilePath)
     if isTestEnv == True:
         tickers = ['LAZIOUSDT']
@@ -232,7 +232,3 @@ async def main():
     plt.show()
 
     print(f'Done plotting signals from {crypto_report_filename}\n')
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
