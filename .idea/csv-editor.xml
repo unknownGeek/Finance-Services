@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/Crypto/backtest_signals_df.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/Dec2024-coins.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-15/crypto_report_12_20241215_032405.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-15/crypto_report_13_20241215_041313.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-15/crypto_report_14_20241215_053730.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-15/crypto_report_15_20241215_184346.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-15/crypto_report_3_20241215_025829.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-16/crypto_report_1_20241216_012957.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-16/crypto_report_2_20241216_013453.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-16/crypto_report_3_20241216_014536.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-17/crypto_report_1_20241217_013502.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-17/crypto_report_2_20241217_013837.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-17/crypto_report_3_20241217_082350.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-20/crypto_report_1_20241220_020134.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-20/crypto_report_2_20241220_020138.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-20/crypto_report_3_20241220_185944.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-20/crypto_report_5_20241220_225154.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-21/crypto_report_3_20241221_031612.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-21/crypto_report_4_20241221_031759.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-21/crypto_report_5_20241221_033624.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-21/crypto_report_6_20241221_043422.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-21/crypto_report_7_20241221_043633.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-23/crypto_report_1_20241223_180926.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-23/crypto_report_2_20241223_182755.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-23/crypto_report_3_20241223_184352.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-23/crypto_report_4_20241223_185513.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-23/crypto_report_5_20241223_193003.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-25/crypto_report_1_20241225_172642.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_12_20241226_231325.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_13_20241226_232318.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_14_20241226_233323.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_17_20241226_233903.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_18_20241226_234308.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_19_20241226_235018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_1_20241226_001010.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_20_20241226_235608.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_2_20241226_002147.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_3_20241226_002352.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_4_20241226_003900.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_5_20241226_012345.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_6_20241226_012348.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_7_20241226_035808.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-26/crypto_report_8_20241226_192835.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_10_20241227_203737.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_11_20241227_213141.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_1_20241227_004652.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_2_20241227_005549.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_3_20241227_010002.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_4_20241227_010119.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_5_20241227_011236.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_6_20241227_050715.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_8_20241227_051143.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-27/crypto_report_9_20241227_203317.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_10_20241228_014129.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_11_20241228_020023.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_12_20241228_020404.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_13_20241228_020703.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_14_20241228_022107.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_15_20241228_022419.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_16_20241228_030420.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_17_20241228_031223.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_18_20241228_031407.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_19_20241228_031505.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_1_20241228_002008.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_20_20241228_031757.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_21_20241228_032450.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_22_20241228_033020.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_23_20241228_034027.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_25_20241228_055728.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_26_20241228_061148.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_27_20241228_061953.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_28_20241228_081129.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_29_20241228_081442.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_2_20241228_003503.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_30_20241228_083342.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_31_20241228_144331.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_32_20241228_151528.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_3_20241228_004054.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_4_20241228_004433.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_5_20241228_004758.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_6_20241228_005707.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_7_20241228_011129.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_8_20241228_013009.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-28/crypto_report_9_20241228_013432.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/crypto_report_1_20241229_031236.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/crypto_report_1_20241229_082346.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/crypto_report_26_20241229_064022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/crypto_report_27_20241229_081659.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/crypto_report_28_20241229_081915.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_10_20241229_092131/backtest_report_20241229_092131.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_10_20241229_092131/crypto_report_20241229_092131.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_11_20241229_094720/backtest_report_20241229_094720.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_11_20241229_094720/crypto_report_20241229_094720.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_12_20241229_095831/backtest_report_20241229_095831.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_12_20241229_095831/crypto_report_20241229_095831.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_13_20241229_102756/backtest_report_20241229_102756.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_13_20241229_102756/crypto_report_20241229_102756.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_15_20241229_115915/backtest_report_20241229_115915.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_16_20241229_120029/backtest_report_20241229_120029.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_17_20241229_120150/backtest_report_20241229_120150.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_18_20241229_120509/backtest_report_20241229_120509.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_19_20241229_121034/backtest_report_20241229_121034.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_1_20241229_084550/backtest_report_20241229_084550.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_1_20241229_143607/backtest_report_20241229_143607.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_20_20241229_121204/backtest_report_20241229_121204.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_21_20241229_121234/crypto_report_20241229_121234.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_22_20241229_121853/backtest_report_20241229_121853.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_22_20241229_121853/crypto_report_20241229_121853.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_23_20241229_122225/backtest_report_20241229_122225.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_2_20241229_084704/backtest_report_20241229_084704.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_2_20241229_084704/crypto_report_20241229_084704.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_2_20241229_143658/backtest_report_20241229_143658.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_31_20241229_124135/backtest_report_20241229_124135.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_32_20241229_124538/backtest_report_20241229_124538.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_32_20241229_124538/crypto_report_20241229_124538.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_34_20241229_125822/backtest_report_20241229_125822.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_35_20241229_130047/backtest_report_20241229_130047.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_36_20241229_130120/backtest_report_20241229_130120.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_37_20241229_130326/backtest_report_20241229_130326.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_38_20241229_132315/backtest_report_20241229_132315.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_39_20241229_132557/backtest_report_20241229_132557.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_3_20241229_084808/backtest_report_20241229_084808.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_3_20241229_084808/crypto_report_20241229_084808.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_40_20241229_133536/backtest_report_20241229_133536.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_41_20241229_134038/backtest_report_20241229_134038.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_42_20241229_134742/backtest_report_20241229_134742.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_43_20241229_134842/backtest_report_20241229_134842.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_43_20241229_134842/crypto_report_20241229_134842.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_44_20241229_135422/backtest_report_20241229_135422.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_45_20241229_135628/backtest_report_20241229_135628.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_45_20241229_135628/crypto_report_20241229_135628.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_46_20241229_140124/backtest_report_20241229_140124.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_47_20241229_140522/backtest_report_20241229_140522.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_48_20241229_140645/backtest_report_20241229_140645.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_49_20241229_140730/backtest_report_20241229_140730.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_4_20241229_090237/backtest_report_20241229_090237.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_50_20241229_142429/backtest_report_20241229_142429.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_53_20241229_143114/backtest_report_20241229_143114.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_54_20241229_143331/backtest_report_20241229_143331.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_5_20241229_090856/backtest_report_20241229_090856.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_5_20241229_090856/crypto_report_20241229_090856.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_8_20241229_091122/backtest_report_20241229_091122.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/crypto-reports/2024-12-29/run_9_20241229_091234/backtest_report_20241229_091234.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Crypto/resources/test-coins.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

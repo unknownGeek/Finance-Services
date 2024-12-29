@@ -1,0 +1,88 @@
+
+†python:S1192N"HDefine a constant instead of duplicating this literal 'CALL OI' 5 times.(ò•ıøJ$33425545-f02c-43e4-9743-1a9ecbfd5972
+python:S1192P"LDefine a constant instead of duplicating this literal 'PUT CHNG OI' 3 times.(ó‹ÉªúÿÿÿÿJ$df55110f-b3a1-422d-b7a6-f57be6ed2de4
+python:S1192P"KDefine a constant instead of duplicating this literal 'PUT VOLUME' 3 times.(ó‹ÉªúÿÿÿÿJ$a11d7f47-4ba4-4140-8259-bf46ec18798e
+Špython:S1192P"GDefine a constant instead of duplicating this literal 'PUT OI' 4 times.(ó‹ÉªúÿÿÿÿJ$038a1645-31b2-4001-94dc-92097da9e20f
+‘python:S1192O"NDefine a constant instead of duplicating this literal 'STRIKE PRICE' 13 times.(ôÈ…ˆüÿÿÿÿJ$95eadb56-acb5-4702-bf78-55efe3ba2afe
+Špython:S1192N"LDefine a constant instead of duplicating this literal 'CALL VOLUME' 3 times.(ò•ıøJ$d900ca18-09c2-4c4d-8a00-eebe29128631
+‹python:S1192N"MDefine a constant instead of duplicating this literal 'CALL CHNG OI' 3 times.(ò•ıøJ$ee313a77-69e7-409d-b1f5-cb54c2d1f01c
+Œpython:S3358
+"IExtract this nested conditional expression into an independent statement.(öêºöøÿÿÿÿJ$29eb766e-ca85-4c3f-b217-4f110a614a80
+Ÿpython:S1170"]Rename this local variable "jsonResponse" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ”»ÈıÿÿÿÿJ$6f80e322-6677-43c4-89ba-70b3b7b529f8
+Špython:S1542)"MRename function "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÅPJ$b8ff9247-af84-4d85-ab26-df83e84a98e7
+python:S1854;"PRemove this assignment to local variable 'strikePrice'; the value is never used.(™ÖŒJ$d436a3f6-06de-48af-8158-6492ce362a80
+•python:S117:"XRename this local variable "callCOI" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$0eea1fc3-bdf3-4f72-a537-d6cc9c1b0da7
+•python:S117:"XRename this local variable "callLTP" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$1dedbd91-e692-42c5-b613-2ed4e02d95e2
+”python:S117:"WRename this local variable "callOI" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$51147be6-5438-4318-aafd-6e310a04e235
+˜python:S117:"[Rename this local variable "callVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$af347030-bf94-4a79-bbfe-d74e4ea1a444
+™python:S117S"\Rename this local variable "optionChain" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş×ÌâJ$70d96215-1154-45bd-beb8-3499ba8e3d57
+”python:S117:"WRename this local variable "putCOI" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$77b1973a-2fcf-4cc6-b2a9-1223a0897dec
+”python:S117J"WRename this local variable "putLTP" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö†õ»J$010a0ee1-e2a8-4511-a9e4-9cc6d1a9dd5a
+“python:S117:"VRename this local variable "putOI" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$b85a239f-4f83-4239-a38b-2b650e18cf7b
+—python:S117:"ZRename this local variable "putVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¹ÏØJ$2e65750f-f08b-4343-8dc9-7b680550f489
+™python:S117;"\Rename this local variable "strikePrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ÖŒJ$8ec3760f-58c4-4609-885c-a5bea890b0ce
+python:S15425"ORename function "dataFrame" to match the regular expression ^[a-z_][a-z0-9_]*$.(–İ‰±J$81539d56-e744-4a76-a1bb-a172520403ad
+ python:S117 "bRename this local variable "PCR_from_total_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉËÏŠJ$49ae761b-77bb-427f-8799-2745acd62d11
+¥python:S117Ÿ"gRename this local variable "PCR_from_total_chng_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÌ”©J$ab819dd1-0247-4cbf-85b5-c381f209e367
+©python:S117¢"kRename this local variable "PCR_from_total_relevant_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éå¡ÅJ$263fe1c0-b8a3-4f60-97d6-f83d90bbf1de
+®python:S117¡"pRename this local variable "PCR_from_total_relevant_chng_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(èÊğJ$ff1f13b8-a67a-4df6-b7ae-377688b8ad47
+ python:S117]"cRename this local variable "callATMStrikePrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢«ÔJ$7e21a741-8b48-4587-89d0-703b214d4cd8
+œpython:S117f"_Rename this local variable "callOptionsATM" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏŠõ¦J$9a1c29b3-ec12-42ce-9b8f-df4e159a043e
+¡python:S117e"_Rename this local variable "callOptionsITM" to match the regular expression ^[_a-z][a-z0-9_]*$.(–Ñ¿ÖúÿÿÿÿJ$7217fb1e-1bc8-4d17-b2bb-f16572f88e12
+œpython:S117g"_Rename this local variable "callOptionsOTM" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ØàÂJ$c6b23679-6a3a-4cc5-a469-f504e2ca6830
+¥python:S117v"cRename this local variable "callOptionsOTMSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÊˆşÿÿÿÿJ$75027451-af6a-4514-9a86-3acfd6185f26
+™python:S117«"[Rename this local variable "dataPoints" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŞŸ¿©J$f472cf89-3ddf-4c97-87da-31e7a0c37899
+¡python:S117["_Rename this local variable "lastModifiedAt" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍîéÙúÿÿÿÿJ$34de3eff-0d40-4d9f-a830-ebff6bd6b25f
+python:S117Y"\Rename this local variable "optionChain" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆÌş™üÿÿÿÿJ$7cad5dfb-5ee3-402b-99ff-1ede0717987c
+¤python:S117^"bRename this local variable "putATMStrikePrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(”¢ñ‹ÿÿÿÿÿJ$50cb3edf-deb4-4621-984a-6768a0971f9d
+›python:S117j"^Rename this local variable "putOptionsATM" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ïî´J$a7a86e8b-4688-48c5-8c5a-fd5295d9c175
+›python:S117i"^Rename this local variable "putOptionsITM" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤òŸ J$e81885ad-478a-4278-ac6d-81cd2fdceba7
+ python:S117k"^Rename this local variable "putOptionsOTM" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ¾ÀşÿÿÿÿJ$9347ae3e-0a99-4af4-bef0-5885c25b3ed3
+Ÿpython:S117z"bRename this local variable "putOptionsOTMSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(«Íã§J$a1f2a3d2-cc14-4425-ac4f-e580d984bf66
+špython:S117X"XRename this local variable "rawData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆİˆùÿÿÿÿJ$de29d26a-8b85-4748-95dc-98f619620584
+©python:S117x"gRename this local variable "relevantCallOptionsOTM" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠÔ»€ùÿÿÿÿJ$f9a2cdd1-848e-4730-bd32-10db9775e0b9
+¨python:S117w"kRename this local variable "relevantCallOptionsOTMSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡ªèƒJ$e52aeb36-e739-484e-bf0a-f5f7591c7185
+ªpython:S117"lRename this local variable "relevantOptionsStrikePrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç’úJ$5abc9e8e-87b5-4950-9d53-53f1c72e8b97
+¨python:S117|"fRename this local variable "relevantPutOptionsOTM" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆö£âûÿÿÿÿJ$d6d626a2-e564-4ab7-af31-87be7019fe76
+§python:S117{"jRename this local variable "relevantPutOptionsOTMSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(€äºÎJ$d619072d-2999-4178-9d2c-54521ecc54cf
+Ÿpython:S117…"aRename this local variable "resistanceLevels" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡¶Œ¡J$ca78120f-d833-4885-9502-3c1dad293ba7
+°python:S117‹"mRename this local variable "resistanceLevelsStrikePrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(³‰¸ûÿÿÿÿJ$4ef25490-c440-48b2-baa8-e15ef2fb7d16
+£python:S117§"eRename this local variable "signal_from_total_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷î¡J$63ca4b17-4e8e-4922-9ab7-289c3faf15f3
+­python:S117¦"jRename this local variable "signal_from_total_chng_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÜàüÿÿÿÿJ$9619b01f-ccef-4b45-8aee-1abdfb785dd3
+±python:S117¨"sRename this local variable "signal_from_total_relevant_chng_IO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓâÎûJ$1bcb82ba-a982-4b32-9f95-e47fdef7d9a6
+œpython:S117ˆ"^Rename this local variable "supportLevels" to match the regular expression ^[_a-z][a-z0-9_]*$.(„¾ÇJ$e5c8ed66-d15f-4bd6-8bab-f33f40b26af2
+¨python:S117"jRename this local variable "supportLevelsStrikePrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡§ÎûJ$12bb2500-d484-4cc6-a32f-07c9cde6525c
+Ÿpython:S117²"bRename this local variable "tabularDataPoints" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª£ö(J$350df130-54e0-4a57-a7cb-e1423767da48
+ python:S117’"]Rename this local variable "totalCallCIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(§¯ø¿ÿÿÿÿÿJ$aad5f776-6b4d-44fd-a1f5-cceb4871a42e
+Ÿpython:S117‘"\Rename this local variable "totalCallIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÃ¹­úÿÿÿÿJ$ce5e2476-e097-4a8c-8f6d-18cb1ef3313c
+python:S117“"`Rename this local variable "totalCallVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(†²œJ$7f2a65da-e0a2-4aca-906b-a8c0b341b543
+™python:S117•"\Rename this local variable "totalPutCIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìJ$35f1de86-ef38-45e6-ba00-7f7b58a0e8be
+™python:S117”"[Rename this local variable "totalPutIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(…—¹êJ$5c19feea-11e7-4927-98d6-0967df458c55
+python:S117–"_Rename this local variable "totalPutVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(­›Ó‹J$be95f979-4f35-494f-acef-47476d206139
+¨python:S117™"eRename this local variable "totalRelevantCallCIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú‹âŸÿÿÿÿÿJ$1e2d1504-10f6-4b88-bd33-0a810da47bc9
+¡python:S117˜"dRename this local variable "totalRelevantCallIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚Á©+J$addf93fe-dc1c-4a88-bd34-76d379c13c44
+«python:S117š"hRename this local variable "totalRelevantCallVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶¸ƒİûÿÿÿÿJ$489cd611-b725-490e-8947-8f3aee9c1620
+¢python:S117œ"dRename this local variable "totalRelevantPutCIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÉªóJ$e2da0345-b710-4839-bb63-8da06fd60edd
+¦python:S117›"cRename this local variable "totalRelevantPutIO" to match the regular expression ^[_a-z][a-z0-9_]*$.(Åí£ÏşÿÿÿÿJ$11d21715-43d7-4a73-ad5c-48c406280b16
+¥python:S117"gRename this local variable "totalRelevantPutVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(îõ‰ÊJ$57bfe278-5e8b-47aa-bcaa-36e2ef4b9be2
+¢python:S117\"`Rename this local variable "underlyingValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÉ¨øùÿÿÿÿJ$3b470ee3-fc71-49f4-b789-c944a79c9ca9
+python:S1481š";Remove the unused local variable "totalRelevantCallVolume".(¶¸ƒİûÿÿÿÿJ$0926093a-d3e4-455a-bc19-1323032a9f65
+opython:S1481i"1Remove the unused local variable "putOptionsITM".(¤òŸ J$7e2dca84-4737-4750-b6f6-d98da6fb2589
+upython:S1481e"2Remove the unused local variable "callOptionsITM".(–Ñ¿ÖúÿÿÿÿJ$1392426f-8449-4ebc-87cc-9be70021a4f8
+opython:S1481j"1Remove the unused local variable "putOptionsATM".(°ïî´J$d0433da7-3072-44ad-b725-8643361e4d73
+ypython:S1481":Remove the unused local variable "totalRelevantPutVolume".(îõ‰ÊJ$7f157d0c-eccf-4da0-bd04-161573336991
+ppython:S1481f"2Remove the unused local variable "callOptionsATM".(ÏŠõ¦J$a7142ad6-9d58-4725-91a5-5070f50ad3f7
+}python:S1481¢">Remove the unused local variable "PCR_from_total_relevant_IO".(Éå¡ÅJ$37c49cc5-1186-4dd2-b494-a21e671cc89b
+\python:S125m"Remove this commented out code.(Î÷Ï¥J$75542e5b-3606-4c8a-8d07-1bbdf1dc77d3
+\python:S125r"Remove this commented out code.(ò‘‘àJ$6fd76883-601c-45a1-9f42-14dbc1e4af93
+\python:S125~"Remove this commented out code.(ñ¢ºJ$8f553eef-815d-4bae-9a6b-1fd1e4549b9e
+œpython:S117¼"YRename this parameter "maxColumnName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂàË×şÿÿÿÿJ$32b4ee81-658e-4e78-b2e4-5400803449eb
+python:S117È"[Rename this local variable "maxOptions" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢€ˆøÿÿÿÿJ$bdf39d61-c494-4645-90c6-e2f697493240
+•python:S117Å"WRename this local variable "nextMx" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û¢ØÇJ$7b4cf6b4-68c2-4e8e-b27b-ea5f0746d135
+Ÿpython:S117¼"\Rename this parameter "optionsDataframe" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂàË×şÿÿÿÿJ$664b7482-0b37-475e-affa-b76f7c420038
+œpython:S1542¼"XRename function "fetchOptionWithMax" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂàË×şÿÿÿÿJ$472eba9f-1db4-4e68-a6a7-959a8b6be56a
+python:S1542Ì"ORename function "plotLines" to match the regular expression ^[a-z_][a-z0-9_]*$.(±‚éŞJ$37ae923b-5841-47c7-a983-297b07675a53
+python:S117İ"RRename this parameter "callOI" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê’¡J$d25cbc6b-eb98-47c2-883c-9062c6b6ca6c
+python:S117İ"QRename this parameter "putOI" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê’¡J$452ec85c-abd7-48f8-a09e-409dce4a5ec0
+Œpython:S1542İ"MRename function "calcPCR" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê’¡J$2d1c8dad-4c71-4fe7-a831-0e5c6b1e6922
+python:S3358Ş"IExtract this nested conditional expression into an independent statement.(‰ó›ìûÿÿÿÿJ$5726f683-f35e-4a58-9998-be98ea822fec

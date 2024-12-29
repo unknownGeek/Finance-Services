@@ -1,0 +1,84 @@
+
+Metrics for candlesCountForSL=1 riskToRewardRatio=2.0 :
+Count of PASS Trades: 212 (33.81%)
+Count of FAIL Trades : 348 (55.50%)
+Count of OPEN Trades: 67 (10.69%)
+Count of INSUFFICIENT_DATA: 0 (0.00%)
+Profit and Loss (PnL): 76
+Actual Total PnL: $9414.23 on capital_per_trade = $10000 with 94.14%
+
+
+Metrics for candlesCountForSL=1 riskToRewardRatio=1 :
+Count of PASS Trades: 327 (52.15%)
+Count of FAIL Trades : 262 (41.79%)
+Count of OPEN Trades: 38 (6.06%)
+Count of INSUFFICIENT_DATA: 0 (0.00%)
+Profit and Loss (PnL): 392
+Actual Total PnL: $6212.51 on capital_per_trade = $10000 with 62.13%
+
+
+Metrics for candlesCountForSL=1 riskToRewardRatio=2.5 :
+Count of PASS Trades: 177 (28.23%)
+Count of FAIL Trades : 372 (59.33%)
+Count of OPEN Trades: 78 (12.44%)
+Count of INSUFFICIENT_DATA: 0 (0.00%)
+Profit and Loss (PnL): -18
+Actual Total PnL: $7726.70 on capital_per_trade = $10000 with 77.27%
+
+
+Metrics for candlesCountForSL=1 riskToRewardRatio=3.0 :
+Count of PASS Trades: 158 (25.20%)
+Count of FAIL Trades : 383 (61.08%)
+Count of OPEN Trades: 86 (13.72%)
+Count of INSUFFICIENT_DATA: 0 (0.00%)
+Profit and Loss (PnL): -67
+Actual Total PnL: $11097.13 on capital_per_trade = $10000 with 110.97%
+
+
+
+Metrics for candlesCountForSL=1 riskToRewardRatio=3.0 :
+Count of PASS Trades: 2447 (22.42%)
+Count of FAIL Trades : 8378 (76.78%)
+Count of OPEN Trades: 87 (0.80%)
+Count of INSUFFICIENT_DATA: 0 (0.00%)
+Profit and Loss (PnL): -3484
+Actual Total PnL: $-298315.88 on capital_per_trade = $10000 with -2983.16%
+
+----
+
+Metrics for candlesCountForSL=0 riskToRewardRatio=2.0 :
+Count of Pass: 180 (34.22%)
+Count of Fail: 324 (61.60%)
+Count of Pending: 22 (4.18%)
+Count of Grey: 0 (0.00%)
+Profit and Loss (PnL): 36
+
+Metrics for candlesCountForSL=1 riskToRewardRatio=2.0 :
+Count of Pass: 194 (36.81%)
+Count of Fail: 301 (57.12%)
+Count of Pending: 32 (6.07%)
+Count of Grey: 0 (0.00%)
+Profit and Loss (PnL): 87
+
+Metrics for candlesCountForSL=2 riskToRewardRatio=2.0 :
+Count of Pass: 192 (36.50%)
+Count of Fail: 294 (55.89%)
+Count of Pending: 40 (7.60%)
+Count of Grey: 0 (0.00%)
+Profit and Loss (PnL): 90
+
+Metrics for candlesCountForSL=3 riskToRewardRatio=2.0 :
+Count of Pass: 191 (36.31%)
+Count of Fail: 291 (55.32%)
+Count of Pending: 44 (8.37%)
+Count of Grey: 0 (0.00%)
+Profit and Loss (PnL): 91
+
+Metrics for candlesCountForSL=4 riskToRewardRatio=2.0 :
+Count of Pass: 189 (35.93%)
+Count of Fail: 290 (55.13%)
+Count of Pending: 47 (8.94%)
+Count of Grey: 0 (0.00%)
+Profit and Loss (PnL): 88
+
+

@@ -1,0 +1,163 @@
+{
+  "columns": [
+    "name",
+    "description",
+    "logoid",
+    "update_mode",
+    "type",
+    "typespecs",
+    "close",
+    "pricescale",
+    "minmov",
+    "fractional",
+    "minmove2",
+    "currency",
+    "change",
+    "volume",
+    "relative_volume_10d_calc",
+    "market_cap_basic",
+    "fundamental_currency_code",
+    "price_earnings_ttm",
+    "earnings_per_share_diluted_ttm",
+    "earnings_per_share_diluted_yoy_growth_ttm",
+    "dividends_yield_current",
+    "sector.tr",
+    "market",
+    "sector",
+    "recommendation_mark",
+    "exchange"
+  ],
+  "filter": [
+    {
+      "left": "market_cap_basic",
+      "operation": "egreater",
+      "right": 10000000000
+    },
+    {
+      "left": "close",
+      "operation": "egreater",
+      "right": 25
+    },
+    {
+      "left": "exchange",
+      "operation": "equal",
+      "right": "NSE"
+    },
+    {
+      "left": "is_primary",
+      "operation": "equal",
+      "right": true
+    }
+  ],
+  "ignore_unknown_fields": false,
+  "options": {
+    "lang": "en"
+  },
+  "range": [
+    0,
+    10000
+  ],
+  "sort": {
+    "sortBy": "change",
+    "sortOrder": "desc"
+  },
+  "symbols": {},
+  "markets": [
+    "india"
+  ],
+  "filter2": {
+    "operator": "and",
+    "operands": [
+      {
+        "operation": {
+          "operator": "or",
+          "operands": [
+            {
+              "operation": {
+                "operator": "and",
+                "operands": [
+                  {
+                    "expression": {
+                      "left": "type",
+                      "operation": "equal",
+                      "right": "stock"
+                    }
+                  },
+                  {
+                    "expression": {
+                      "left": "typespecs",
+                      "operation": "has",
+                      "right": [
+                        "common"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "operation": {
+                "operator": "and",
+                "operands": [
+                  {
+                    "expression": {
+                      "left": "type",
+                      "operation": "equal",
+                      "right": "stock"
+                    }
+                  },
+                  {
+                    "expression": {
+                      "left": "typespecs",
+                      "operation": "has",
+                      "right": [
+                        "preferred"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "operation": {
+                "operator": "and",
+                "operands": [
+                  {
+                    "expression": {
+                      "left": "type",
+                      "operation": "equal",
+                      "right": "dr"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "operation": {
+                "operator": "and",
+                "operands": [
+                  {
+                    "expression": {
+                      "left": "type",
+                      "operation": "equal",
+                      "right": "fund"
+                    }
+                  },
+                  {
+                    "expression": {
+                      "left": "typespecs",
+                      "operation": "has_none_of",
+                      "right": [
+                        "etf"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
